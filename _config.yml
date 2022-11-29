@@ -1,0 +1,42 @@
+title: "Talk on tech"
+author: "Junaid Shakur"
+description: "As a Tech Lead sharing my experience related to things i had and i am learning and working on."
+
+# Email / Social media user names used by the minima theme:
+# All of these are optional and can be removed or commented out
+email: "junaid.shakur.js@gmail.com"
+twitter_username: "no-twitter"
+github_username: "junaidshakur"
+linkedin_username: "junaid-shakur-73b51354"
+#facebook_username: username
+#flickr_username: username
+#instagram_username: username
+#pinterest_username: username
+#youtube_username: username
+#googleplus_username: +username
+
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
