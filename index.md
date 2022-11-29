@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+My name is Junaid Shakur, I have 12 years of experience in building distributed high preforming web application mainly using .net, c#, java, javascript. I have extensive experience in devops, system architecture and design and cloud service (AWS and azure).
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am leading and mentoring teams on multiple domains and projects for last 4 years.
